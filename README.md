@@ -1,8 +1,17 @@
 ## Hi there 👋
 
+I'm Saurabh Singh, with experience in Statistical Analysis, data analysis, Credit Risk and project management areas
 
-   -- 👋 Hi, I am Saurabh Singh <br>
-   -- 👀 I’m interested in Management Consulting, Data Science and Credit Risk <br>
-   -- 🌱 Always a Learner <br>
+🧑‍💻 When I'm not working, you can find me exploring data, solving real-world problems, and continuously learning new skills in:
+✳️ Data Analysis & Data Visualization
+✳️ Machine Learning
+✳️ Credit Risk Management
 
+I enjoy working with different tools and technologies, and my current favorites are:
+
+❤️ SQL (SQL Server, MySQL)
+❤️ Python
+❤️ Power BI & Microsoft Fabric
+
+I'm always eager to connect and collaborate on exciting projects! 🚀
 
