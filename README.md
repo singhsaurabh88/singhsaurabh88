@@ -2,7 +2,7 @@
 
 I'm Saurabh Singh, with experience in Data Analysis, Credit Risk and Project Management areas
 
-🧑‍💻 When I'm not working, you can find me exploring data, solving real-world problems, and continuously learning new skills in:
+🧑‍💻 When I'm not working, you can find me exploring data, solving real-world problems, and continuously learning new skills in:<br>
 ✳️ Data Analysis & Data Visualization<br>
 ✳️ Machine Learning<br>
 ✳️ Credit Risk Management<br>
