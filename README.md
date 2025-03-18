@@ -5,7 +5,7 @@ I'm Saurabh Singh, with experience in Statistical Data Analysis, Credit Risk and
 🧑‍💻 When I'm not working, you can find me exploring data, solving real-world problems, and continuously learning new skills in:<br>
 ✳️ Data Analysis & Data Visualization<br>
 ✳️ Machine Learning<br>
-✳️ Credit Risk Management<br>
+✳️ Credit Risk Analytics<br>
 
 I enjoy working with different tools and technologies, and my current favorites are:
 
