@@ -9,9 +9,9 @@ I'm Saurabh Singh, with experience in Data Analysis, Credit Risk and Project Man
 
 I enjoy working with different tools and technologies, and my current favorites are:
 
-. ❤️ SQL (SQL Server, MySQL)
-. ❤️ Python
-. ❤️ Power BI & Microsoft Fabric
+❤️ SQL (SQL Server, MySQL)<br>
+❤️ Python<br>
+❤️ Power BI & Microsoft Fabric<br>
 
 I'm always eager to connect and collaborate on exciting projects! 🚀
 
